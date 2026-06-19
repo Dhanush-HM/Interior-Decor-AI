@@ -1,6 +1,6 @@
 # AI Room Redesigner
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]((https://colab.research.google.com/github/Dhanush-HM/Interior-Decor-AI/blob/main/Interior_decor.ipynb#scrollTo=qOBfo_zTnMjj)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dhanush-HM/Interior-Decor-AI/blob/main/Interior_decor.ipynb#scrollTo=qOBfo_zTnMjj)
 
 An AI-powered interior design assistant that transforms room images into different design styles using Stable Diffusion Img2Img.
 
